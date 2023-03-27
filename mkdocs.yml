@@ -27,7 +27,7 @@ site_description: >-
   minutes – searchable, customizable, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
+repo_name: https://github.com/MascielSilva/mkdocs-material
 repo_url: https://github.com/squidfunk/mkdocs-material
 
 # Copyright
